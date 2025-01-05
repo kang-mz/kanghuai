@@ -11,7 +11,12 @@ redirect_from:
 I am a **Research Fellow** in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)) at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), advised by Prof. [Xueyan Tang](https://personal.ntu.edu.sg/asxytang/). I obtained my Ph.D. degree at Sun Yat-Sen University（[SYSU](https://www.sysu.edu.cn/)), supervised by Prof. [Lin Chen](https://chen-website.github.io/). Before that, I received my M.E. degree at Central South University ([CSU](https://en.csu.edu.cn/index.htm)), mentored by Prof. [Zhigang Chen](https://faculty.csu.edu.cn/chenzhigang/zh_CN/index/8285/list/index.htm), and my B.E. degree at Nanchang University ([NCU](https://english.ncu.edu.cn/)). I also work closely with Prof. [Jihong Yu](https://pure.bit.edu.cn/zh/persons/jihong-yu). 
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research lies at ****
+
+
+
+
+neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
