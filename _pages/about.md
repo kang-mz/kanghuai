@@ -19,7 +19,7 @@ neural machine translation and computer vision. I have published more than 100 p
 
 
 # 🔥 News
-- 🎉 *2025.01*: My personal academic homepage is online.. 
+- 🎉 *2025.01*: My personal academic homepage is online.
 
 
 # 📝 Publications 
