@@ -12,7 +12,7 @@ redirect_from:
 I am a **Research Fellow** in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)) at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), advised by Prof. [Xueyan Tang](https://personal.ntu.edu.sg/asxytang/). I obtained my Ph.D. degree, under the supervision of Prof. [Lin Chen](https://chen-website.github.io/), at Sun Yat-Sen University（[SYSU](https://www.sysu.edu.cn/)). Before that, I received my M.E. degree at Central South University ([CSU](https://en.csu.edu.cn/index.htm)), mentored by Prof. [Zhigang Chen](https://faculty.csu.edu.cn/chenzhigang/zh_CN/index/8285/list/index.htm), and my B.E. degree at Nanchang University ([NCU](https://english.ncu.edu.cn/)). I also work closely with Prof. [Jihong Yu](https://pure.bit.edu.cn/zh/persons/jihong-yu). 
 
 
-My research lies in theoretical analysis and algorithm design for **Wireless Sensing**, **Backscatter Communication**, and **Distributed Computing**. Currently, I focus on task scheduling, resource allocation, data caching in distributed systems. 
+My research lies in theoretical analysis and algorithm design for **Wireless Sensing**, **Backscatter Communication**, and **Distributed Computing**.  
 
 
 
@@ -23,7 +23,7 @@ neural machine translation and computer vision. I have published more than 100 p
 - 🎉 *2025.01*: My personal academic homepage is online.
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
