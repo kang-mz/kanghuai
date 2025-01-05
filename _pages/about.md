@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 # 🎓 Biography
-I am a **Research Fellow** in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)) at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), advised by Prof. [Xueyan Tang](https://personal.ntu.edu.sg/asxytang/). I obtained my Ph.D. degree at Sun Yat-Sen University（[SYSU](https://www.sysu.edu.cn/)), supervised by Prof. [Lin Chen](https://chen-website.github.io/). Before that, I received my M.E. degree at Central South University ([CSU](https://en.csu.edu.cn/index.htm)), mentored by Prof. [Zhigang Chen](https://faculty.csu.edu.cn/chenzhigang/zh_CN/index/8285/list/index.htm), and my B.E. degree at Nanchang University ([NCU](https://english.ncu.edu.cn/)). I also work closely with Prof. [Jihong Yu](https://pure.bit.edu.cn/zh/persons/jihong-yu). 
+I am a **Research Fellow** in the College of Computing and Data Science ([CCDS](https://www.ntu.edu.sg/computing)) at Nanyang Technological University ([NTU](https://www.ntu.edu.sg/)), advised by Prof. [Xueyan Tang](https://personal.ntu.edu.sg/asxytang/). I obtained my Ph.D. degree, under the supervision of Prof. [Lin Chen](https://chen-website.github.io/), at Sun Yat-Sen University（[SYSU](https://www.sysu.edu.cn/)). Before that, I received my M.E. degree at Central South University ([CSU](https://en.csu.edu.cn/index.htm)), mentored by Prof. [Zhigang Chen](https://faculty.csu.edu.cn/chenzhigang/zh_CN/index/8285/list/index.htm), and my B.E. degree at Nanchang University ([NCU](https://english.ncu.edu.cn/)). I also work closely with Prof. [Jihong Yu](https://pure.bit.edu.cn/zh/persons/jihong-yu). 
 
 
-My research lies in theoretical analysis and algorithm design in **Wireless Sensing**, **Backscatter Communication**, and **Distributed Computing**. 
+My research lies in theoretical analysis and algorithm design for **Wireless Sensing**, **Backscatter Communication**, and **Distributed Computing**. 
 
 
 
