@@ -27,15 +27,16 @@ neural machine translation and computer vision. I have published more than 100 p
 
 
 -	 [1] **Kanghuai Liu**, Lin Chen, Jihong Yu, Ziyue Jia. Revisiting RFID Missing Tag Identification: Theoretical Foundation and Algorithm Design. *IEEE/ACM Transactions on Networking (TON)*. 2024. **CCF-A**.
-[[paper]](https://xplorestaging.ieee.org/document/10540347) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+   [[paper]](https://xplorestaging.ieee.org/document/10540347) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
   
--	[2] **Kanghuai Liu**, Lin Chen, Jihong Yu, Haochen Cui. On Batch Writing in COTS RFID Systems. *IEEE Transactions on Mobile Computing (IEEE TMC)*. 2024. **CCF-A**. [[paper]](https://xplorestaging.ieee.org/document/10144682) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	[2] **Kanghuai Liu**, Lin Chen, Jihong Yu, Haochen Cui. On Batch Writing in COTS RFID Systems. *IEEE Transactions on Mobile Computing (IEEE TMC)*. 2024. **CCF-A**.
+   [[paper]](https://xplorestaging.ieee.org/document/10144682) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 
 -	[3] **Kanghuai Liu**, Lin Chen, Junyi Huang, Shiyuan Liu, Jihong Yu. Revisiting RFID Missing Tag Identification*. IEEE International Conference on Computer Com-
 munications (IEEE INFOCOM), 2022. **CCF-A** 
-[[paper]](https://xplorestaging.ieee.org/document/9796971) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+   [[paper]](https://xplorestaging.ieee.org/document/9796971) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 
 # 🎖 Honors and Awards
