@@ -55,6 +55,5 @@ neural machine translation and computer vision. I have published more than 100 p
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Academic Services
-- Reviewer for Journals:
-- 
+- Reviewer for Journals: IEEE/ACM Transactions on Networking (ToN); IEEE Transactions on Mobile Computing (TMC); IEEE Transactions on Computers (ToC); IEEE Transactions on Dependable and Secure Computing (TDSC).
   
