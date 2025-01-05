@@ -30,10 +30,10 @@ neural machine translation and computer vision. I have published more than 100 p
 [[paper]](https://dx.doi.org/10.3390/s22093587) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
   
--	**Kanghuai Liu**, Lin Chen, Jihong Yu, Haochen Cui. On Batch Writing in COTS RFID Systems. *IEEE Transactions on Mobile Computing (IEEE TMC)*. 2024. **CCF-A**. [[paper]](https://dx.doi.org/10.3390/s22093587) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	[2] **Kanghuai Liu**, Lin Chen, Jihong Yu, Haochen Cui. On Batch Writing in COTS RFID Systems. *IEEE Transactions on Mobile Computing (IEEE TMC)*. 2024. **CCF-A**. [[paper]](https://dx.doi.org/10.3390/s22093587) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 
--	**Kanghuai Liu**, Lin Chen, Junyi Huang, Shiyuan Liu, Jihong Yu. Revisiting RFID Missing Tag Identification*. IEEE International Conference on Computer Com-
+-	[3] **Kanghuai Liu**, Lin Chen, Junyi Huang, Shiyuan Liu, Jihong Yu. Revisiting RFID Missing Tag Identification*. IEEE International Conference on Computer Com-
 munications (IEEE INFOCOM), 2022. **CCF-A** 
 [[paper]](https://dx.doi.org/10.3390/s22093587) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
