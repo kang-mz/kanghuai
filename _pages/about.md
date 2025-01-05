@@ -39,8 +39,11 @@ neural machine translation and computer vision. I have published more than 100 p
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*  Outstanding PhD Graduate, SYSU.
+- *2023.11*  First-Class Tencent Scholarship, SYSU.
+- *2020.06*  Provincial Outstanding Graduates, Hunan Province.
+- *2019.10*  Yi Dinghong Scholarship, CSU.
+- *2018.11*  National Scholarship, China.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
