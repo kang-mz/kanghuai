@@ -20,24 +20,23 @@ neural machine translation and computer vision. I have published more than 100 p
 
 
 # 🔥 News
-- 🎉 *2025.01*: My personal academic homepage is online.
+- 🎉 *2025.01*: My academic homepage is online.
 
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+-	 [1] **Kanghuai Liu**, Lin Chen, Jihong Yu, Ziyue Jia. Revisiting RFID Missing Tag Identification: Theoretical Foundation and Algorithm Design. *IEEE/ACM Transactions on Networking (TON)*. 2024. **CCF-A**.
+[[paper]](https://dx.doi.org/10.3390/s22093587) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  
+-	**Kanghuai Liu**, Lin Chen, Jihong Yu, Haochen Cui. On Batch Writing in COTS RFID Systems. *IEEE Transactions on Mobile Computing (IEEE TMC)*. 2024. **CCF-A**. [[Link]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[paper]](https://dx.doi.org/10.3390/s22093587) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-	**Kanghuai Liu**, Lin Chen, Junyi Huang, Shiyuan Liu, Jihong Yu. Revisiting RFID Missing Tag Identification*. IEEE International Conference on Computer Com-
+munications (IEEE INFOCOM), 2022. **CCF-A** 
+[[paper]](https://dx.doi.org/10.3390/s22093587) [[bibtex]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
 
 # 🎖 Honors and Awards
 - *2024.06*  Outstanding PhD Graduate, SYSU.
